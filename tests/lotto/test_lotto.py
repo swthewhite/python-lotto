@@ -1,5 +1,5 @@
 import pytest
-from lotto.main import Lotto
+from lotto.lotto import Lotto
 
 
 # 로또 번호 개수 예외 테스트
